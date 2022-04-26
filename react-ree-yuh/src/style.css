@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 10px;
+}
+.nav > img {
+    width: 80px;
+    height: 80px;
+}
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > li{
+    padding: 10px;
+}
+
+.Ree {
+    color: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
